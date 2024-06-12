@@ -1,0 +1,8 @@
+tornado==6.1
+requests
+peewee 
+aiomysql
+peewee-async
+pyjwt
+aioredis
+pillow
